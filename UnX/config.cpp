@@ -1213,7 +1213,7 @@ UNX_ControlPanelWidget (void)
         {
           GamepadCombo (gamepad.speedboost);
           GamepadCombo (gamepad.softreset);
-          if (ImGui::IsItemHovered () || ImGui::IsItemFocused ())
+          if (ImGui::IsItemHovered () || ImGui::IsItemActive ())
             ImGui::SetTooltip ("It is STRONGLY recommended that you do not change this gamepad combo!");
         }
         ImGui::EndGroup   (  );
