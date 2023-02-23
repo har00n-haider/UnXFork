@@ -739,7 +739,7 @@ UNX_LoadConfig (std::wstring name)
 }
 
 #include <imgui/imgui.h>
-#pragma comment (lib, "F:\\SteamLibrary\\steamapps\\common\\FINAL FANTASY FFX&FFX-2 HD Remaster\\dxgi.lib")
+#pragma comment (lib, "D:\\SteamLibrary\\steamapps\\common\\FINAL FANTASY FFX&FFX-2 HD Remaster\\dxgi.lib")
 
 void
 UNX_SaveConfig (std::wstring name, bool close_config)
