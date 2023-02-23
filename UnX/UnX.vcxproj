@@ -126,6 +126,7 @@
       <AssemblerOutput>All</AssemblerOutput>
       <DisableSpecificWarnings>4201;4702;4061</DisableSpecificWarnings>
       <UseFullPaths>true</UseFullPaths>
+      <AdditionalIncludeDirectories>C:\Development\Repositories;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Windows</SubSystem>
